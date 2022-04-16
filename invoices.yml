@@ -1,0 +1,16 @@
+---
+id: 0
+date: "2021-06-18"
+companyFrom:
+  name: "iCode Trust Sp. z o.o"
+  identificationNumber: "03072017"
+  address: "ul. Listopadowa 24d 05-110 Legionowo"
+companyFor:
+  name: "Kamil Development"
+  identificationNumber: "20022020"
+  address: "05-110 Jablonna, Sadowa 19"
+invoiceEntries:
+- description: "Programming course"
+  price: 10000
+  vatValue: 2300
+  vatRate: "VAT_23"
