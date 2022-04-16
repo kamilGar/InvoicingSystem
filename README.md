@@ -1,2 +1,2 @@
 # InvoicingSystemKamilGar
-Project created as part of Java bootcamp
+Project created as a part of Java bootcamp
